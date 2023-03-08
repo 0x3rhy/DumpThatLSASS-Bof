@@ -1,7 +1,7 @@
 # DumpThatLSASS-Bof
 Patch ETW and Dump lsass mem
 
-**All this code comes from [TheD1rkMtr](https://github.com/TheD1rkMtr)** Thanks for his contribution.
+**All this code comes from [TheD1rkMtr](https://github.com/TheD1rkMtr)** Thanks for his contribution. I just made a little change
 
 ## Usage
 ![exe](assert/3439C1A6-4254-45e8-858B-39E4252E247E.png)
